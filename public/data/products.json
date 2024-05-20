@@ -1,0 +1,86 @@
+{
+  "laptop": [
+    {
+      "id": 1,
+      "name": "laptop 1",
+      "harga": 450000,
+      "image": "https://images.tokopedia.net/img/KRMmCm/2022/5/9/488c5172-8305-4d76-8519-06c7ed915ba6.jpg",
+      "description": "laptop muraj mren",
+      "stock": 5
+    },
+    {
+      "id": 2,
+      "name": "laptop 2",
+      "harga": 450000,
+      "image": "https://images.tokopedia.net/img/KRMmCm/2022/5/9/488c5172-8305-4d76-8519-06c7ed915ba6.jpg",
+      "description": "laptop muraj mren",
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "name": "laptop 3",
+      "harga": 450000,
+      "image": "https://images.tokopedia.net/img/KRMmCm/2022/5/9/488c5172-8305-4d76-8519-06c7ed915ba6.jpg",
+      "description": "laptop muraj mren",
+      "stock": 5
+    },
+    {
+      "id": 4,
+      "name": "laptop 4",
+      "harga": 450000,
+      "image": "https://images.tokopedia.net/img/KRMmCm/2022/5/9/488c5172-8305-4d76-8519-06c7ed915ba6.jpg",
+      "description": "laptop muraj mren",
+      "stock": 5
+    },
+    {
+      "id": 5,
+      "name": "laptop 5",
+      "harga": 450000,
+      "image": "https://images.tokopedia.net/img/KRMmCm/2022/5/9/488c5172-8305-4d76-8519-06c7ed915ba6.jpg",
+      "description": "laptop muraj mren",
+      "stock": 5
+    }
+  ],
+  "handphone": [
+    {
+      "id": 1,
+      "name": "handphone 1",
+      "harga": 450000,
+      "image": "https://www.bhinneka.com/blog/wp-content/uploads/2023/02/Hp-termahal-iPhone-14-Pro-Max-Terbaru-2023.jpg",
+      "description": "handphone muraj mren",
+      "stock": 5
+    },
+    {
+      "id": 2,
+      "name": "handphone 2",
+      "harga": 450000,
+      "image": "https://www.bhinneka.com/blog/wp-content/uploads/2023/02/Hp-termahal-iPhone-14-Pro-Max-Terbaru-2023.jpg",
+      "description": "handphone muraj mren",
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "name": "handphone 3",
+      "harga": 450000,
+      "image": "https://www.bhinneka.com/blog/wp-content/uploads/2023/02/Hp-termahal-iPhone-14-Pro-Max-Terbaru-2023.jpg",
+      "description": "handphone muraj mren",
+      "stock": 5
+    },
+    {
+      "id": 4,
+      "name": "handphone 4",
+      "harga": 450000,
+      "image": "https://www.bhinneka.com/blog/wp-content/uploads/2023/02/Hp-termahal-iPhone-14-Pro-Max-Terbaru-2023.jpg",
+      "description": "handphone muraj mren",
+      "stock": 5
+    },
+    {
+      "id": 5,
+      "name": "handphone 5",
+      "harga": 450000,
+      "image": "https://www.bhinneka.com/blog/wp-content/uploads/2023/02/Hp-termahal-iPhone-14-Pro-Max-Terbaru-2023.jpg",
+      "description": "handphone muraj mren",
+      "stock": 5
+    }
+  ]
+}
